@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stracciatella:blocks/block_of_cheese"
+  }
+}

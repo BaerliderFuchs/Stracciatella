@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "stracciatella:block/food_bowl" },
+    "facing=south": { "model": "stracciatella:block/food_bowl", "y": 180 },
+    "facing=east": { "model": "stracciatella:block/food_bowl", "y": 270 },
+    "facing=west": { "model": "stracciatella:block/food_bowl", "y": 90 }
+  }
+}

@@ -1,0 +1,58 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"0": "stracciatella:blocks/cheese_top",
+		"1": "stracciatella:blocks/cheese_side",
+		"2": "stracciatella:blocks/cheese_bottom",
+		"particle": "stracciatella:blocks/cheese_top"
+	},
+	"elements": [
+		{
+			"from": [1.99651, 0.00001, 2.00348],
+			"to": [13.99651, 6.00001, 14.00348],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 6], "texture": "#1"},
+				"east": {"uv": [0, 0, 12, 6], "texture": "#1"},
+				"south": {"uv": [0, 0, 12, 6], "texture": "#1"},
+				"west": {"uv": [0, 0, 12, 6], "texture": "#1"},
+				"up": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 12], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"translation": [0, 5, 0],
+			"scale": [1, 1, 1]
+		},
+		"fixed": {
+			"translation": [0, 5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}
