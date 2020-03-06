@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e85f541-997b-4bbb-a838-30071923b1a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-10.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-11.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-12.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-13.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-14.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-5.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-6.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-7.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-8.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/logs/2020-03-05-9.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/objects/blocks/ExperienceCrystal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/runClient.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/runClient.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/runData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/runData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/runServer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/runServer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/baerliderfuchs/stracciatella/init/BlockInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/baerliderfuchs/stracciatella/init/BlockInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/baerliderfuchs/stracciatella/objects/blocks/FoodBowl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/baerliderfuchs/stracciatella/objects/blocks/FoodBowl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/baerliderfuchs/stracciatella/objects/blocks/FoodBowl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/baerliderfuchs/stracciatella/objects/blocks/FoodBowl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2020-03-05-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2020-03-05-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2020-03-05-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2020-03-05-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2020-03-05-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2020-03-05-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2020-03-05-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2020-03-05-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/playerdata/380df991-f603-344c-a090-369bad2a924a.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/Stracciatella/stats/380df991-f603-344c-a090-369bad2a924a.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Stracciatella/stats/380df991-f603-344c-a090-369bad2a924a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/init/BlockInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/init/BlockInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/objects/blocks/BlockOfCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/objects/blocks/BlockOfCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/objects/blocks/FoodBowl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baerliderfuchs/stracciatella/objects/blocks/FoodBowl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YdXnK7WkTFXucedJHeKXWcGeTA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/stracciatella/textures/items" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marcb\Documents\GitHub\Stracciatella\src\main\resources\assets\stracciatella\textures\items" />
+      <recent name="C:\Users\marcb\Documents\GitHub\Stracciatella\src\main\resources\assets\stracciatella\textures\blocks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.runClient">
+    <configuration name="Stracciatella" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Stracciatella" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e85f541-997b-4bbb-a838-30071923b1a2" name="Default Changelist" comment="" />
+      <created>1583273610380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583273610380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Project_Structure" timestamp="1583444015431">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Project_Structure/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583444015431" />
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1583446963101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583446963101" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583447692925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583447692925" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1583447692925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583447692925" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1583447692925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583447692925" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1583447692925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583447692925" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1583445309526">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1583445309526" />
+  </component>
+</project>
