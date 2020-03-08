@@ -18,6 +18,6 @@ public class ExperienceCrystal extends Block {
     public void onPlayerDestroy(IWorld worldIn, BlockPos pos, BlockState state) {
         super.onPlayerDestroy(worldIn, pos, state);
         Random random = new Random();
-        this.dropXpOnBlockBreak((World) worldIn, pos, 10 + random.nextInt(10));
+        this.dropXpOnBlockBreak((World) worldIn, pos, 100 + random.nextInt(10));
     }
 }

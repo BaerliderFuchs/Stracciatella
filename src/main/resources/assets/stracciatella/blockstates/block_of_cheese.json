@@ -1,5 +1,8 @@
 {
   "variants": {
-    "": { "model": "stracciatella:block/block_of_cheese" }
+    "bites=0": { "model": "stracciatella:block/block_of_cheese" },
+    "bites=1": { "model": "stracciatella:block/block_of_cheese_3" },
+    "bites=2": { "model": "stracciatella:block/block_of_cheese_2" },
+    "bites=3": { "model": "stracciatella:block/block_of_cheese_1" }
   }
 }

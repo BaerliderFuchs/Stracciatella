@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "stracciatella:blocks/cheese_inner",
+		"1": "stracciatella:blocks/cheese_side",
+		"2": "stracciatella:blocks/cheese_top",
+		"particle": "stracciatella:blocks/cheese_top"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 8],
+			"to": [14, 6, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 6, 6], "texture": "#1"},
+				"south": {"uv": [0, 0, 12, 6], "texture": "#1"},
+				"west": {"uv": [6, 0, 12, 6], "texture": "#1"},
+				"up": {"uv": [0, 6, 12, 12], "texture": "#2"},
+				"down": {"uv": [0, 0, 12, 6], "texture": "#2"}
+			}
+		},
+		{
+			"from": [2, 0, 2],
+			"to": [8, 6, 8],
+			"faces": {
+				"north": {"uv": [6, 0, 12, 6], "texture": "#1"},
+				"east": {"uv": [6, 0, 12, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 6, 6], "texture": "#1"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#2"},
+				"down": {"uv": [0, 6, 6, 12], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

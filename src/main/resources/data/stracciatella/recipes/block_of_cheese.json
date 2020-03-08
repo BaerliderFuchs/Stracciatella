@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cc",
+    "cc"
+  ],
+  "key": {
+    "c": {
+      "item": "stracciatella:cheese"
+    }
+  },
+  "result": {
+    "item": "stracciatella:block_of_cheese"
+  }
+}

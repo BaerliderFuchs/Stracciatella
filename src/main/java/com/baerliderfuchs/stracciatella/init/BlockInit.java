@@ -26,7 +26,7 @@ public class BlockInit {
     @SubscribeEvent
     public static void registerBlocks(final RegistryEvent.Register<Block> event) {
         //event.getRegistry().register(new Block(Block.Properties.create(Material.ORGANIC).hardnessAndResistance(0.3f, 5.0f).sound(SoundType.WET_GRASS).harvestTool(ToolType.AXE)).setRegistryName("block_of_cheese"));
-        event.getRegistry().register(new BlockOfCheese(Block.Properties.create(Material.ORGANIC).hardnessAndResistance(0.3f, 5.0f).sound(SoundType.STEM).harvestTool(ToolType.AXE)).setRegistryName("block_of_cheese"));
+        event.getRegistry().register(new BlockOfCheese(Block.Properties.create(Material.CAKE).hardnessAndResistance(0.3f, 5.0f).sound(SoundType.STEM).harvestTool(ToolType.AXE)).setRegistryName("block_of_cheese"));
         event.getRegistry().register(new FoodBowl(Block.Properties.create(Material.CLAY).hardnessAndResistance(5.0f).sound(SoundType.STONE)).setRegistryName("food_bowl"));
         event.getRegistry().register(new ExperienceCrystal(Block.Properties.create(Material.GLASS).hardnessAndResistance(0.1f).sound(SoundType.GLASS).lightValue(5)).setRegistryName("experience_crystal"));
     }

@@ -19,6 +19,6 @@ public class ItemInit {
     @SubscribeEvent
     public static void registerItems(final RegistryEvent.Register<Item> event) {
         event.getRegistry().register(new FireBlanket(new Item.Properties().group(ItemGroup.TOOLS)).setRegistryName("fire_blanket"));
-        event.getRegistry().register(new Item(new Item.Properties().group(ItemGroup.FOOD).food(new Food.Builder().hunger(5).saturation(1.0f).build())).setRegistryName("cheese"));
+        event.getRegistry().register(new Item(new Item.Properties().group(ItemGroup.FOOD).food(new Food.Builder().hunger(4).saturation(1.0f).build())).setRegistryName("cheese"));
     }
 }

@@ -1,3 +1,6 @@
 {
-  "parent": "stracciatella:block/block_of_cheese"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stracciatella:items/block_of_cheese"
+  }
 }
