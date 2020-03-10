@@ -2,6 +2,7 @@ package com.baerliderfuchs.stracciatella.init;
 
 import com.baerliderfuchs.stracciatella.Stracciatella;
 import com.baerliderfuchs.stracciatella.objects.items.FireBlanket;
+import com.baerliderfuchs.stracciatella.objects.items.Sap;
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -15,10 +16,12 @@ import net.minecraftforge.registries.ObjectHolder;
 public class ItemInit {
     public static final Item fire_blanket = null;
     public static final Item cheese = null;
+    public static final Item sap = null;
 
     @SubscribeEvent
     public static void registerItems(final RegistryEvent.Register<Item> event) {
         event.getRegistry().register(new FireBlanket(new Item.Properties().group(ItemGroup.TOOLS)).setRegistryName("fire_blanket"));
         event.getRegistry().register(new Item(new Item.Properties().group(ItemGroup.FOOD).food(new Food.Builder().hunger(4).saturation(1.0f).build())).setRegistryName("cheese"));
+        event.getRegistry().register(new Sap(new Item.Properties().group(ItemGroup.MISC)).setRegistryName("sap"));
     }
 }

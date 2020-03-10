@@ -1,7 +1,9 @@
 {
   "item.stracciatella.fire_blanket": "Fire Blanket",
   "item.stracciatella.cheese": "Cheese",
+  "item.stracciatella.sap": "Sap",
 
   "block.stracciatella.block_of_cheese": "Block of Cheese",
-  "block.stracciatella.food_bowl": "Food Bowl"
+  "block.stracciatella.food_bowl": "Food Bowl",
+  "block.stracciatella.tap": "Tap"
 }
